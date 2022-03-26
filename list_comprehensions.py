@@ -13,7 +13,7 @@ for x in l:
 print(even)
 print(odd)
 
-# Approach -1 : Find the even and odd items from the list using LIST Comprehensions
+# Approach -2 : Find the even and odd items from the list using LIST Comprehensions
 def getevenodd(l):
     even1=[x for x in l if x%2==0]
     odd1=[x for x in l if x%2 !=0]

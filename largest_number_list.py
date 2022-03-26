@@ -16,6 +16,8 @@ def getmax(l):
 print(getmax(l2))
 # time complexity for the above function will be: big o of n-square -- example: list sorted in increasing order
 # in this we will run the loop one time, two time...n times i.e. n(n+1) times
+
+
 # optmising the code to make the time complexity linear
 # time complexity for the following code will be theta-n as we are comparing each element once only
 def getmax(l):

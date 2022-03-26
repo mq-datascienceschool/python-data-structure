@@ -1,4 +1,4 @@
-'''Given an non-empty list find the largest elements in list'''
+'''Given an non-empty list find the largest element in list'''
 l1=[10,5,29,8]
 l2=[30,30,20]
 l3=[4]
